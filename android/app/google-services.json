@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "239752166908",
+    "project_id": "ios-reminder-86a43",
+    "storage_bucket": "ios-reminder-86a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239752166908:android:a688139e5ad0c94063c679",
+        "android_client_info": {
+          "package_name": "com.example.sapphire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239752166908-7rndpmpunpdk5dt1r5fs3n050s028lid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCEnUgjjhXO5jxdcNaLIQ9d3If_xw2VLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239752166908-7rndpmpunpdk5dt1r5fs3n050s028lid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239752166908-l0t7ojf4o6kkvb2bnh5fqa9n5tftc6qn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sapphire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
